@@ -1,0 +1,1 @@
+This command pushes all the branches to the server repository.
